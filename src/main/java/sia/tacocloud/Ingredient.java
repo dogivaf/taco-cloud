@@ -1,4 +1,4 @@
-package sia.tacocloud;=
+package sia.tacocloud;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
